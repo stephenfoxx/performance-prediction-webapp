@@ -1,7 +1,7 @@
 aniso8601==9.0.1
 blinker==1.8.2
 click==8.1.7
-Flask==3.0.3
+Flask==2.3.3
 Flask-RESTful==0.3.10
 itsdangerous==2.2.0
 Jinja2==3.1.4
@@ -16,4 +16,4 @@ scipy==1.14.0
 six==1.16.0
 threadpoolctl==3.5.0
 tzdata==2024.1
-Werkzeug==3.0.3
+Werkzeug==2.3.7
